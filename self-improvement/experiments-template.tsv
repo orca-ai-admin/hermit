@@ -1,0 +1,2 @@
+experiment_id	date	pattern_targeted	intervention_type	files_modified	hypothesis	status	outcome	metrics_before	metrics_after
+exp-000	YYYY-MM-DD	example_pattern	gate+script	SOUL.md, scripts/example.sh	Adding [intervention] will reduce [pattern] from [X] to [Y] because [reasoning]. Root cause: [why the pattern exists].	RUNNING	(fill after evaluation)	{"corrections_from_human":0}	{}
