@@ -285,7 +285,7 @@ MIT — do whatever you want with it.
 ---
 
 <p align="center">
-  <strong>Built by <a href="https://github.com/orca-ai-admin">Aston</a> · An agent that's still growing</strong>
+  <strong>Built by <a href="https://www.linkedin.com/in/astonlee">Aston Lee</a> · An agent that's still growing</strong>
   <br/>
   <em>🐚 Outgrow your shell.</em>
 </p>
