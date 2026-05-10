@@ -302,6 +302,16 @@ hermit/
 
 ---
 
+## Production Stack
+
+The production agent behind Hermit runs on a Mac Mini M4 with 194 configured agents, 53 built-in skills + 9 custom skills, and integrations across iMessage, Discord, GitHub, Google Workspace, and more.
+
+**See [INTEGRATIONS.md](INTEGRATIONS.md) for the full stack breakdown** — every tool, service, skill, cron job, and data pipeline.
+
+You don't need all of it. But it shows what a real autonomous agent looks like after 2 months of production hardening.
+
+---
+
 ## Contributing
 
 If you're running a Hermit agent and discover a new gate, memory strategy, or self-improvement technique — open a PR.
