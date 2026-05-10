@@ -1,0 +1,38 @@
+# Memory files (contain personal/session data)
+memory/
+MEMORY.md
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+*.p12
+*.p8
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Session data
+sessions/
+.sessions/
